@@ -7,5 +7,5 @@
   - forgotPassword.php
   - resendCode.php
 
-##Some files are deemed unnecessary and can be removed accordingly.
+## Some files are deemed unnecessary and can be removed accordingly.
 - Notice that minor bugs are still existent in the systems functionalities
